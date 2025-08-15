@@ -1,2 +1,5 @@
-# resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
+Introdução a Computação em Nuvem:
+A aula apresenta o conceito de computação em nuvem, destacando suas vantagens, como escalabilidade, flexibilidade e redução de custos com infraestrutura física. Foram explicados os tipos de nuvem (pública, privada e híbrida), assim como os modelos de serviço: IaaS (Infraestrutura como Serviço), PaaS (Plataforma como Serviço) e SaaS (Software como Serviço). A ideia é mostrar como a computação em nuvem facilita a gestão de recursos de TI e oferece soluções eficientes para empresas de todos os portes.
+
+Microsoft Azure - Buscando serviços por categoria:
+Esta aula se concentrou no Microsoft Azure, uma plataforma de nuvem popular. Foi ensinado como buscar e categorizar os serviços oferecidos pelo Azure. A plataforma é estruturada em diferentes áreas, como computação, armazenamento, redes e inteligência artificial, permitindo que os usuários escolham serviços de acordo com suas necessidades específicas. O objetivo é ajudar os usuários a navegar no Azure de forma eficiente e escolher os serviços mais adequados para seus projetos.
